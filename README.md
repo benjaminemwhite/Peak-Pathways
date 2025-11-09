@@ -28,6 +28,12 @@ Presentation & Publishing Plan:
 
 Create and publicize a website for Northwood students to use. Share it through social media and word of mouth. 
 
+**Sprint #1**
+
+Design an architecture for the project: Completed
+
+Design a basic front end using Figma: In Process
+
  
 
  
