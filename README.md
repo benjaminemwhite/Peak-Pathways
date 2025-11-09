@@ -32,6 +32,8 @@ Create and publicize a website for Northwood students to use. Share it through s
 
 Design an architecture for the project: Completed
 
+<img width="1458" height="1770" alt="PlacidMind Project Architecture" src="https://github.com/user-attachments/assets/65c359cd-352c-41cd-beda-038a9be86ddc" />
+
 Design a basic front end using Figma: In Process
 
  
