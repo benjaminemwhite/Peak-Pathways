@@ -34,7 +34,17 @@ Design an architecture for the project: Completed
 
 <img width="1458" height="1770" alt="PlacidMind Project Architecture" src="https://github.com/user-attachments/assets/65c359cd-352c-41cd-beda-038a9be86ddc" />
 
-Design a basic front end using Figma: In Process
+**Sprint #2** 
+
+Reach out to experts of AI use in education:
+
+**Sprint #3** 
+
+Design a front end using figma:
+
+**Sprint #4**
+
+Build the back end and API:
 
  
 
